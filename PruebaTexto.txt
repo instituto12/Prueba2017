@@ -1,1 +1,6 @@
 Este es un archivo que voy a subir
+
+\\es necesario tener aplicado todo lo relevado con anterioridad para poder continuar desde esta linea
+
+**Subir escaleras
+++Llegar al cielo
